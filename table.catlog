@@ -1,0 +1,11 @@
+2
+
+sss 3 12 no_primaryKey
+id char(20) 20 unique no_index 
+name char(20) 20 not_unique no_index 
+age int 4 not_unique no_index 
+
+a 2 6 no_primaryKey
+id char(20) 20 unique no_index 
+name char(20) 20 not_unique no_index 
+

@@ -1,0 +1,7 @@
+insert into a values ('1' , 'Jim' );
+insert into a values ('2' , 'Wu' );
+insert into a values ('3' , 'Su' );
+insert into a values ('4' , 'Wang');
+insert into a values ('5' , 'Xiang');
+insert into a values ('6' , 'Rui' );
+insert into a values ('7' , 'Si');
